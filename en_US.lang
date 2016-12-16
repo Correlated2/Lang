@@ -1,0 +1,240 @@
+itemGroup.correlated=Correlated
+
+gui.inventory=Inventory
+
+container.correlated.drive_bay.name=Drive Bay
+
+tile.correlated.controller.name=Controller
+tile.correlated.drive_bay.name=Drive Bay
+tile.correlated.memory_bay.name=Memory Bay
+tile.correlated.terminal.name=Terminal
+tile.correlated.iface.name=Interface
+tile.correlated.wireless_receiver.name=Wireless Receiver
+tile.correlated.wireless_transmitter.name=Wireless Transmitter
+
+gui.correlated.terminal=Terminal
+gui.correlated.importer_chest=Disassembled Old Network
+
+gui.correlated.priority=Priority
+gui.correlated.priority.highest=Highest (3)
+gui.correlated.priority.higher=Higher (2)
+gui.correlated.priority.high=High (1)
+gui.correlated.priority.default=Normal (0)
+gui.correlated.priority.low=Low (-1)
+gui.correlated.priority.lower=Lower (-2)
+gui.correlated.priority.lowest=Lowest (-3)
+
+gui.correlated.partition_mode=Partitioning Mode
+gui.correlated.partition_mode.none=Not Partitioned
+gui.correlated.partition_mode.none.desc=Any items are allowed
+gui.correlated.partition_mode.blacklist=Partitioned (Blacklist)
+gui.correlated.partition_mode.blacklist.desc=Only items not shown in this gui are allowed
+gui.correlated.partition_mode.whitelist=Partitioned (Whitelist)
+gui.correlated.partition_mode.whitelist.desc=Only items shown in this gui are allowed
+
+
+item.correlated.drive.normal.name=%s Drive
+item.correlated.drive.void.name=Void Drive
+
+item.correlated.memory.normal.name=%s Memory
+item.correlated.memory.infinite.name=Wormhole Memory
+
+item.correlated.misc.processor.name=Enderic Processor
+tooltip.correlated.misc.processor.0=§5It seems to be part of something larger.
+item.correlated.misc.ceramic_drive_platter.name=Ceramic Drive Platter
+item.correlated.misc.metallic_drive_platter.name=Metallic Drive Platter
+item.correlated.misc.luminous_pearl.name=Luminous Pearl
+tooltip.correlated.misc.luminous_pearl.0=§5It glows a brilliant verdant green.
+item.correlated.misc.lumtorch.name=Luminous Torch
+item.correlated.misc.weldthrower_fuel.name=Volatile Dust
+tooltip.correlated.misc.weldthrower_fuel.0=§5A great fuel, if used correctly.
+item.correlated.misc.unstable_pearl.name=Unstable Pearl
+tooltip.correlated.misc.unstable_pearl.0=§5What did you do?
+item.correlated.misc.unfinished_organic_circuit.name=Unfinished Organic Circuit
+tooltip.correlated.misc.unfinished_organic_circuit.0=§5Technically edible technology.
+item.correlated.misc.data_core.name=Data Core
+tooltip.correlated.misc.data_core.0=Right-click to throw and drop contents on the ground with a 5 hour despawn time, or use in place of a Luminous Pearl while crafting a drive to re-use
+tooltip.correlated.misc.data_core.1=
+
+item.correlated.keycard_amber.name=Amber Keycard
+item.correlated.keycard_black.name=Onyx Keycard
+item.correlated.keycard_green.name=Jade Keycard
+item.correlated.keycard_indigo.name=Sapphire Keycard
+item.correlated.keycard_pink.name=Rhodolite Keycard
+item.correlated.keycard_red.name=Ruby Keycard
+item.correlated.keycard_sky.name=Agate Keycard
+item.correlated.keycard_white.name=Topaz Keycard
+item.correlated.keycard_yellow.name=Citrine Keycard
+tooltip.correlated.keycard=§5This seems important.
+
+item.correlated.wireless_terminal.name=Wireless Terminal
+item.correlated.weldthrower.name=Weldthrower
+tooltip.correlated.weldthrower.0=§5Wrench, welder, flamethrower.
+tooltip.correlated.weldthrower.1=§5What more could you possibly want?
+item.correlated.floppy.name=Floppy
+item.correlated.module.speech.name=Speech Module
+item.correlated.module.antigrav.name=Anti-Gravity Module
+
+item.record.correlated.danslarue.desc=xyce - dans la rue
+item.record.correlated.jesuisbaguette.desc=xyce - je suis baguette
+item.record.correlated.papillons.desc=malmen & xyce - papillons
+
+item.record.correlated.dreidl.desc=xyce - dreidl
+item.record.correlated.oak.desc=xyce - oak
+item.record.correlated.king.desc=xyce - king
+item.record.correlated.comrades.desc=xyce - comrades
+item.record.correlated.devenirmondefi.desc=xyce - devenir mon defi
+item.record.correlated.ngenracer.desc=xyce - ngen racer
+item.record.correlated.sevensixteen.desc=xyce - 716
+item.record.correlated.ombres.desc=xyce - ombres
+item.record.correlated.sacrecharlemagne.desc=xyce - sacre charlemagne
+item.record.correlated.danone.desc=xyce - danone
+item.record.correlated.spark.desc=xyce - spark
+item.record.correlated.genesis.desc=xyce - genesis
+item.record.correlated.greyatari.desc=xyce - grey atari
+item.record.correlated.ella.desc=xyce - ella
+item.record.correlated.framboise.desc=xyce - framboise
+item.record.correlated.grecque.desc=xyce - grecque
+item.record.correlated.que.desc=xyce - que
+item.record.correlated.suddenlyisee.desc=xyce - suddenly i see
+item.record.correlated.sixsixtythreefoureightytwo.desc=xyce - 663482
+item.record.correlated.pinkssideoftown.desc=xyce - pink's side of town
+item.record.correlated.thirteen.desc=xyce - thirteen
+item.record.correlated.irokos.desc=xyce - irokos
+
+tooltip.correlated.sortmode=Sorting Mode
+tooltip.correlated.sortmode.quantity=Quantity
+tooltip.correlated.sortmode.mod_minecraft_first=Originating Mod (Minecraft First)
+tooltip.correlated.sortmode.mod=Originating Mod
+tooltip.correlated.sortmode.name=Name
+
+tooltip.correlated.sortdirection=Sorting Direction
+tooltip.correlated.sortdirection.ascending=Ascending
+tooltip.correlated.sortdirection.descending=Descending
+
+tooltip.correlated.crafting_target=Crafting Target
+tooltip.correlated.crafting_target.network=Network
+tooltip.correlated.crafting_target.inventory=Inventory
+
+tooltip.correlated.crafting_amount=Amount to Craft
+tooltip.correlated.crafting_amount.one=One
+tooltip.correlated.crafting_amount.stack=Stack
+tooltip.correlated.crafting_amount.max=Maximum
+
+tooltip.correlated.crafting.only_shift_click=(Only affects shift-click)
+
+tooltip.correlated.clear_crafting_grid=Clear Crafting Grid
+
+tooltip.correlated.focus_search_by_default.true=Focus Search on Open
+tooltip.correlated.focus_search_by_default.false=Don't Focus Search on Open
+
+tooltip.correlated.jei_sync.true=Sync Search with JEI
+tooltip.correlated.jei_sync.false=Don't Sync Search with JEI
+
+
+entity.correlated.automaton.name=Automaton
+
+tooltip.correlated.automaton.state.wander=Wander
+tooltip.correlated.automaton.state.attack=Attack
+tooltip.correlated.automaton.state.follow=Follow
+tooltip.correlated.automaton.state.stay=Stay
+tooltip.correlated.automaton.state.exec=Exec
+
+tooltip.correlated.automaton.followDistance=Follow Distance
+tooltip.correlated.automaton.followDistance.0=Close
+tooltip.correlated.automaton.followDistance.1=Near
+tooltip.correlated.automaton.followDistance.2=Far
+tooltip.correlated.automaton.followDistance.3=Distant
+
+
+msg.correlated.terminal_no_controller=Cannot find a Controller to communicate with.
+msg.correlated.terminal_no_power=The unlit screen resists all attempts at interaction.
+msg.correlated.terminal_error=There is a fatal error preventing access to the network.
+msg.correlated.terminal_booting=The network is still starting up.
+
+msg.correlated.receiver_unlinked=This receiver does not have a linked transmitter. Right-click on a transmitter to link this receiver.
+msg.correlated.receiver_linked=Receiver linked.
+
+msg.correlated.terminal_unlinked=This terminal does not have a linked transmitter. Right-click on a transmitter to link this terminal.
+msg.correlated.terminal_linked=Terminal linked.
+msg.correlated.terminal_cantconnect=Cannot find the linked transmitter.
+msg.correlated.terminal_outofrange=Transmitter out of range.
+
+msg.correlated.automaton_not_yours=This isn't your Automaton.
+msg.correlated.automaton_angry=The Automaton refuses to let you configure it.
+msg.correlated.automaton_untamed=The Automaton doesn't trust you.
+msg.correlated.automaton_dead=The Automaton has shut off to avoid fatal damage. (Try repairing it with a Weldthrower.)
+
+numbers.correlated.yobibytes=%d YiB
+numbers.correlated.zebibytes=%d ZiB
+numbers.correlated.exbibytes=%d EiB
+numbers.correlated.pebibytes=%d PiB
+numbers.correlated.tebibytes=%d TiB
+numbers.correlated.gibibytes=%d GiB
+numbers.correlated.mebibytes=%d MiB
+numbers.correlated.kibibytes=%d KiB
+numbers.correlated.bytes=%d bytes
+numbers.correlated.byte=1 byte
+
+
+numbers.correlated.yotta=%sY
+numbers.correlated.zetta=%sZ
+numbers.correlated.exa=%sE
+numbers.correlated.tera=%sT
+numbers.correlated.giga=%sG
+numbers.correlated.mega=%sM
+numbers.correlated.kilo=%sk
+numbers.correlated.normal=%d
+
+tooltip.correlated.controller_booting=Initializing...
+tooltip.correlated.controller_booting.hard=Booting...
+tooltip.correlated.controller_boot_eta_one=ETA: 1 second
+tooltip.correlated.controller_boot_eta=ETA: %d seconds
+tooltip.correlated.controller_error.multiple_controllers=The network has more than one controller
+tooltip.correlated.controller_error.network_too_big=The network is too big
+tooltip.correlated.controller_error.too_much_power=The network takes too much power to run
+tooltip.correlated.controller_error.infinite_loop=Wireless links are connected in an infinite loop
+tooltip.correlated.controller_error.out_of_memory=Out of memory
+tooltip.correlated.controller_consumption_rate=Using %d T/t total (max %d T/t)
+tooltip.correlated.controller_energy_buffer=%d/%d T
+tooltip.correlated.member_consumption_rate=Using %d T/t from controller
+tooltip.correlated.side=Side: %s
+tooltip.correlated.mode=Mode: %s
+tooltip.correlated.no_controller=No Controller
+
+tooltip.correlated.iface.mode_push=§fActive - §6Push
+tooltip.correlated.iface.mode_pull=§fActive - §bPull
+tooltip.correlated.iface.mode_none=§fPassive
+tooltip.correlated.iface.mode_disabled=§8Disabled
+
+tooltip.correlated.floppy.write_protected=Write-Protected
+
+direction.correlated.up=Top
+direction.correlated.down=Bottom
+direction.correlated.north=North
+direction.correlated.east=East
+direction.correlated.south=South
+direction.correlated.west=West
+
+tooltip.correlated.drive_count=%d/8 drives
+tooltip.correlated.bytes_used=%s of %s used (%d%%)
+tooltip.correlated.rf_usage=Uses %d T/t
+tooltip.correlated.bytes_contained=Contains %s of data
+
+tooltip.correlated.memory_count=%d/12 memory chips
+tooltip.correlated.bytes_available=%s available
+
+tooltip.correlated.void_drive.0=Deletes any items that are assigned to it
+tooltip.correlated.void_drive.1=Partitioning this is a good idea
+
+subtitles.correlated.weldthrow=Weldthrower weldthrows
+subtitles.correlated.convert=Pearl converts
+subtitles.correlated.automaton_hurt=Automaton squeals
+subtitles.correlated.automaton_idle=Automaton chirps
+subtitles.correlated.drive_disassemble=Drive falls apart
+subtitles.correlated.data_core_shatter=Data core shatters
+
+death.attack.correlated.weld=%s was welded by %s
+death.attack.correlated.weld.item=%s was welded by %s using %s
+
+death.attack.correlated.constraint_violation=%s walked off the map
