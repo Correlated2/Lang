@@ -11,6 +11,7 @@ tile.correlated.terminal.name=Terminal
 tile.correlated.iface.name=Interface
 tile.correlated.wireless_receiver.name=Wireless Receiver
 tile.correlated.wireless_transmitter.name=Wireless Transmitter
+tile.correlated.cheaty_controller.name=Cheaty Controller
 
 gui.correlated.terminal=Terminal
 gui.correlated.importer_chest=Disassembled Old Network
