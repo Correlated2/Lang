@@ -196,9 +196,6 @@ tooltip.correlated.controller_error.network_too_big=The network is too big
 tooltip.correlated.controller_error.too_much_power=The network takes too much power to run
 tooltip.correlated.controller_error.infinite_loop=Wireless links are connected in an infinite loop
 tooltip.correlated.controller_error.out_of_memory=Out of memory
-tooltip.correlated.controller_consumption_rate=Using %d T/t total (max %d T/t)
-tooltip.correlated.controller_energy_buffer=%d/%d T
-tooltip.correlated.member_consumption_rate=Using %d T/t from controller
 tooltip.correlated.side=Side: %s
 tooltip.correlated.mode=Mode: %s
 tooltip.correlated.no_controller=No Controller
@@ -207,6 +204,14 @@ tooltip.correlated.iface.mode_push=§fActive - §6Push
 tooltip.correlated.iface.mode_pull=§fActive - §bPull
 tooltip.correlated.iface.mode_none=§fPassive
 tooltip.correlated.iface.mode_disabled=§8Disabled
+
+tooltip.correlated.energy_stored=Energy Stored
+tooltip.correlated.energy_usage=Energy Usage
+tooltip.correlated.memory=Memory
+tooltip.correlated.storage=Storage
+tooltip.correlated.input=Input
+tooltip.correlated.filter=Filter
+tooltip.correlated.output=Output
 
 tooltip.correlated.floppy.write_protected=Write-Protected
 
