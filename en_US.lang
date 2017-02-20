@@ -224,7 +224,7 @@ direction.correlated.west=West
 
 tooltip.correlated.drive_count=%d/8 drives
 tooltip.correlated.bytes_used=%s of %s used (%d%%)
-tooltip.correlated.rf_usage=Uses %d T/t
+tooltip.correlated.rf_usage=Uses %d FU/t
 tooltip.correlated.bytes_contained=Contains %s of data
 
 tooltip.correlated.memory_count=%d/12 memory chips
