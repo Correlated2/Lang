@@ -170,9 +170,8 @@ msg.correlated.automaton_dead=The Automaton has shut off to avoid fatal damage. 
 
 msg.correlated.insertSuccessMem=Success: Used %s mem, %s disk
 msg.correlated.insertSuccess=Success: Used %s disk
+msg.correlated.insertSuccessVoid=Success: Items voided
 msg.correlated.insertFailed=Error: %s
-msg.correlated.insertFailed.success=Success
-msg.correlated.insertFailed.success_voided=Success (Voided)
 msg.correlated.insertFailed.insufficient_memory=Not enough memory
 msg.correlated.insertFailed.insufficient_storage=Not enough disk space
 msg.correlated.insertFailed.item_incompatible=No suitable partition
