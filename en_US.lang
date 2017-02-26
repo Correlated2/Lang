@@ -255,6 +255,8 @@ tooltip.correlated.input=Input
 tooltip.correlated.filter=Filter
 tooltip.correlated.output=Output
 
+tooltip.correlated.transmitter_range=Range: %sm
+
 tooltip.correlated.floppy.write_protected=Write-Protected
 
 direction.correlated.up=Top
