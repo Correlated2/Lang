@@ -9,9 +9,9 @@ tile.correlated.drive_bay.name=Drive Bay
 tile.correlated.memory_bay.name=Memory Bay
 tile.correlated.terminal.name=Terminal
 tile.correlated.iface.name=Interface
-tile.correlated.wireless_receiver.name=Wireless Receiver
-tile.correlated.wireless_transmitter.name=Wireless Transmitter
 tile.correlated.cheaty_controller.name=Cheaty Controller
+tile.correlated.microwave_beam.name=Microwave Beam
+tile.correlated.microwave_beam.0=Not quite powerful enough to fry birds mid-flight, but works great for line-of-sight wireless!
 
 gui.correlated.terminal=Terminal
 gui.correlated.importer_chest=Disassembled Old Network
@@ -32,6 +32,8 @@ gui.correlated.partition_mode.blacklist=Partitioned (Blacklist)
 gui.correlated.partition_mode.blacklist.desc=Only items not shown in this gui are allowed
 gui.correlated.partition_mode.whitelist=Partitioned (Whitelist)
 gui.correlated.partition_mode.whitelist.desc=Only items shown in this gui are allowed
+
+gui.correlated.noSignal=NO SIGNAL. Click to change APNs
 
 
 item.correlated.drive.normal.name=%s Drive
@@ -155,8 +157,8 @@ msg.correlated.terminal_no_power=The unlit screen resists all attempts at intera
 msg.correlated.terminal_error=There is a fatal error preventing access to the network.
 msg.correlated.terminal_booting=The network is still starting up.
 
-msg.correlated.receiver_unlinked=This receiver does not have a linked transmitter. Right-click on a transmitter to link this receiver.
-msg.correlated.receiver_linked=Receiver linked.
+msg.correlated.position_saved=Position saved.
+msg.correlated.beam_exists=A beam is already linked. Craft this item by itself to clear the saved position.
 
 msg.correlated.terminal_unlinked=This terminal does not have a linked transmitter. Right-click on a transmitter to link this terminal.
 msg.correlated.terminal_linked=Terminal linked.
