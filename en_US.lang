@@ -136,6 +136,12 @@ tooltip.correlated.focus_search_by_default.false=Don't Focus Search on Open
 tooltip.correlated.jei_sync.true=Sync Search with JEI
 tooltip.correlated.jei_sync.false=Don't Sync Search with JEI
 
+tooltip.correlated.partition=Repartition
+tooltip.correlated.dump=Dump to Network
+tooltip.correlated.shift_to_fill=(Hold Shift to fill)
+tooltip.correlated.fill=Fill from Network
+tooltip.correlated.release_shift_to_dump=(Release Shift to dump)
+
 
 entity.correlated.automaton.name=Automaton
 
@@ -183,6 +189,8 @@ msg.correlated.insertFailed.internal_error=Storage is read-only
 
 msg.correlated.removeSuccessMem=Success: Freed %s mem, %s disk
 msg.correlated.removeSuccess=Success: Freed %s disk
+
+msg.correlated.no_rightclick_editor=Right-clicking while holding a drive no longer edits it. Place the drive in the bottom-left slot of a Terminal and click Repartition to edit it.
 
 # Lines printed by the 'free' command, showing a memory usage breakdown
 correlated.shell.free.total=total: %s
