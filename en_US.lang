@@ -13,6 +13,49 @@ tile.correlated.cheaty_controller.name=Cheaty Controller
 tile.correlated.microwave_beam.name=Microwave Beam
 tile.correlated.microwave_beam.0=Not quite powerful enough to fry birds mid-flight, but works great for line-of-sight wireless!
 
+tile.correlated.dungeoncrete_stairs.name=Chryscrete Stairs
+tile.correlated.dungeoncrete_grate_stairs.name=Chryscrete Grate Stairs
+tile.correlated.dungeoncrete_vertical_stairs.name=Split Chryscrete Stairs
+tile.correlated.dungeoncrete_largetile_stairs.name=Chryscrete Tile Stairs
+
+tile.correlated.lithographene_off_stairs.name=Unlit Lithographene Stairs
+tile.correlated.lithographene_on_stairs.name=Lit Lithographene Stairs
+tile.correlated.lithographene_off_variant_stairs.name=Damaged Lithographene Stairs
+tile.correlated.lithographene_on_variant_stairs.name=Bright Lithographene Stairs
+
+tile.correlated.elucid_grit_stairs.name=Elucid Grit Stairs
+tile.correlated.elucid_brick_stairs.name=Elucid Brick Stairs
+tile.correlated.elucid_scale_stairs.name=Elucid Scale Stairs
+
+tile.correlated.dungeoncrete.name=Chryscrete
+tile.correlated.dungeoncrete_grate.name=Chryscrete Grate
+tile.correlated.dungeoncrete_vertical.name=Split Chryscrete
+tile.correlated.dungeoncrete_largetile.name=Chryscrete Tile
+
+tile.correlated.lithographene_off.name=Unlit Lithographene
+tile.correlated.lithographene_on.name=Lit Lithographene
+tile.correlated.lithographene_off_variant.name=Damaged Lithographene
+tile.correlated.lithographene_on_variant.name=Bright Lithographene
+
+tile.correlated.elucid_grit.name=Elucid Grit
+tile.correlated.elucid_brick.name=Elucid Brick
+tile.correlated.elucid_scale.name=Elucid Scale
+
+tile.correlated.dungeoncrete_slab.name=Chryscrete Slab
+tile.correlated.dungeoncrete_grate_slab.name=Chryscrete Grate Slab
+tile.correlated.dungeoncrete_vertical_slab.name=Split Chryscrete Slab
+tile.correlated.dungeoncrete_largetile_slab.name=Chryscrete Tile Slab
+
+tile.correlated.lithographene_off_slab.name=Unlit Lithographene Slab
+tile.correlated.lithographene_on_slab.name=Lit Lithographene Slab
+tile.correlated.lithographene_off_variant_slab.name=Damaged Lithographene Slab
+tile.correlated.lithographene_on_variant_slab.name=Bright Lithographene Slab
+
+tile.correlated.elucid_grit_slab.name=Elucid Grit Slab
+tile.correlated.elucid_brick_slab.name=Elucid Brick Slab
+tile.correlated.elucid_scale_slab.name=Elucid Scale Slab
+
+
 gui.correlated.terminal=Terminal
 gui.correlated.importer_chest=Disassembled Old Network
 
