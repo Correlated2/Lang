@@ -11,7 +11,7 @@ tile.correlated.terminal.name=Terminal
 tile.correlated.iface.name=Interface
 tile.correlated.cheaty_controller.name=Cheaty Controller
 tile.correlated.microwave_beam.name=Microwave Beam
-tile.correlated.microwave_beam.0=Not quite powerful enough to fry birds mid-flight, but works great for line-of-sight wireless!
+tile.correlated.microwave_beam.0=§5Sadly, not powerful enough to fry birds midair.
 
 tile.correlated.dungeoncrete_stairs.name=Chryscrete Stairs
 tile.correlated.dungeoncrete_grate_stairs.name=Chryscrete Grate Stairs
