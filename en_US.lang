@@ -44,6 +44,7 @@ tile.correlated.elucid_brick.name=Elucid Brick
 tile.correlated.elucid_scale.name=Elucid Scale
 
 tile.correlated.plating.name=Plating
+tile.correlated.lantern.name=Lantern
 
 tile.correlated.dungeoncrete_slab.name=Chryscrete Slab
 tile.correlated.dungeoncrete_grate_slab.name=Chryscrete Grate Slab
@@ -60,6 +61,7 @@ tile.correlated.elucid_brick_slab.name=Elucid Brick Slab
 tile.correlated.elucid_scale_slab.name=Elucid Scale Slab
 
 tile.correlated.plating_slab.name=Plating Slab
+tile.correlated.lantern_slab.name=Lantern Slab
 
 
 gui.correlated.terminal=Terminal
