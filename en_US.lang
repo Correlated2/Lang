@@ -27,6 +27,8 @@ tile.correlated.elucid_grit_stairs.name=Elucid Grit Stairs
 tile.correlated.elucid_brick_stairs.name=Elucid Brick Stairs
 tile.correlated.elucid_scale_stairs.name=Elucid Scale Stairs
 
+tile.correlated.plating_stairs.name=Plating Stairs
+
 tile.correlated.dungeoncrete.name=Chryscrete
 tile.correlated.dungeoncrete_grate.name=Chryscrete Grate
 tile.correlated.dungeoncrete_vertical.name=Split Chryscrete
@@ -41,6 +43,8 @@ tile.correlated.elucid_grit.name=Elucid Grit
 tile.correlated.elucid_brick.name=Elucid Brick
 tile.correlated.elucid_scale.name=Elucid Scale
 
+tile.correlated.plating.name=Plating
+
 tile.correlated.dungeoncrete_slab.name=Chryscrete Slab
 tile.correlated.dungeoncrete_grate_slab.name=Chryscrete Grate Slab
 tile.correlated.dungeoncrete_vertical_slab.name=Split Chryscrete Slab
@@ -54,6 +58,8 @@ tile.correlated.lithographene_on_variant_slab.name=Bright Lithographene Slab
 tile.correlated.elucid_grit_slab.name=Elucid Grit Slab
 tile.correlated.elucid_brick_slab.name=Elucid Brick Slab
 tile.correlated.elucid_scale_slab.name=Elucid Scale Slab
+
+tile.correlated.plating_slab.name=Plating Slab
 
 
 gui.correlated.terminal=Terminal
