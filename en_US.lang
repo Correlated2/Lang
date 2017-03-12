@@ -123,7 +123,7 @@ item.correlated.keycard_white.name=Topaz Keycard
 item.correlated.keycard_yellow.name=Citrine Keycard
 tooltip.correlated.keycard=§5This seems important.
 
-item.correlated.wireless_terminal.name=Wireless Terminal
+item.correlated.wireless_terminal.name=Handheld Terminal
 item.correlated.weldthrower.name=Weldthrower
 tooltip.correlated.weldthrower.0=§5Wrench, welder, flamethrower.
 tooltip.correlated.weldthrower.1=§5What more could you possibly want?
