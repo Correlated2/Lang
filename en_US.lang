@@ -185,6 +185,8 @@ tooltip.correlated.crafting_amount.one=One
 tooltip.correlated.crafting_amount.stack=Stack
 tooltip.correlated.crafting_amount.max=Maximum
 
+tooltip.correlated.preferred_energy=Preferred Energy System
+
 tooltip.correlated.crafting.only_shift_click=(Only affects shift-click)
 
 tooltip.correlated.clear_crafting_grid=Clear Crafting Grid
@@ -339,7 +341,7 @@ direction.correlated.west=West
 
 tooltip.correlated.drive_count=%d/8 drives
 tooltip.correlated.bytes_used=%s of %s used (%d%%)
-tooltip.correlated.rf_usage=Uses %d FU/t
+tooltip.correlated.energy_usage_tip=Uses %d %s/t
 tooltip.correlated.bytes_contained=Contains %s of data
 
 tooltip.correlated.memory_count=%d/12 memory chips
