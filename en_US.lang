@@ -71,6 +71,9 @@ tile.correlated.elucid_scale_slab.name=Elucid Scale Slab
 tile.correlated.plating_slab.name=Plating Slab
 tile.correlated.lantern_slab.name=Lantern Slab
 
+tile.correlated.rare_earth_ore.name=Rare Earth Ore
+tooltip.correlated.rare_earth_ore.0=§5Hard to separate!
+
 
 gui.correlated.terminal=Terminal
 gui.correlated.importer_chest=Disassembled Old Network
@@ -119,6 +122,16 @@ tooltip.correlated.misc.data_core.0=Right-click to throw and drop contents on th
 tooltip.correlated.misc.data_core.1=
 item.correlated.misc.chrysocolla.name=Chrysocolla
 item.correlated.misc.chrysocolla_ingot.name=Chrysocolla Ingot
+item.correlated.misc.impure_chrysocolla.name=Impure Chrysocolla
+tooltip.correlated.misc.impure_chrysocolla.0=§5Not very useful, and can't be made into ingots.
+item.correlated.misc.ingot_cerium.name=Cerium Ingot
+item.correlated.misc.ingot_yttrium.name=Yttrium Ingot
+item.correlated.misc.ingot_neodymium.name=Neodymium Ingot
+item.correlated.misc.ingot_praseodymium.name=Praseodymium Ingot
+item.correlated.misc.ingot_holmium.name=Holmium Ingot
+item.correlated.misc.ingot_lutetium.name=Lutetium Ingot
+item.correlated.misc.ingot_mixed.name=Mixed Rare Earth Ingot
+tooltip.correlated.misc.ingot_mixed.0=§5Separate rare earths are more useful, but oh well.
 
 item.correlated.keycard_amber.name=Amber Keycard
 item.correlated.keycard_black.name=Onyx Keycard
