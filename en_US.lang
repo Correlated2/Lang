@@ -327,6 +327,7 @@ tooltip.correlated.mode=Mode: %s
 tooltip.correlated.no_controller=No Controller
 
 tooltip.correlated.apn=APN: %s
+tooltip.correlated.apns=APNs: %s
 
 tooltip.correlated.iface.mode_push=§fActive - §6Push
 tooltip.correlated.iface.mode_pull=§fActive - §bPull
