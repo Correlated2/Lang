@@ -179,6 +179,8 @@ item.record.correlated.pinkssideoftown.desc=xyce - pink's side of town
 item.record.correlated.thirteen.desc=xyce - thirteen
 item.record.correlated.irokos.desc=xyce - irokos
 
+item.correlated.doc_tablet.name=Correlated Digital Handbook
+
 tooltip.correlated.sortmode=Sorting Mode
 tooltip.correlated.sortmode.quantity=Quantity
 tooltip.correlated.sortmode.mod_minecraft_first=Originating Mod (Minecraft First)
