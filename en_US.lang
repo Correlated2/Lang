@@ -11,7 +11,7 @@ tile.correlated.controller.name=Controller
 tile.correlated.drive_bay.name=Drive Bay
 tile.correlated.memory_bay.name=Memory Bay
 tile.correlated.terminal.name=Terminal
-tile.correlated.iface.name=Interface
+tile.correlated.interface.name=Interface
 tile.correlated.cheaty_controller.name=Cheaty Controller
 tile.correlated.microwave_beam.name=Microwave Beam
 tile.correlated.microwave_beam.0=§5Infinite range line-of-sight wireless!
@@ -144,7 +144,7 @@ item.correlated.keycard_white.name=Topaz Keycard
 item.correlated.keycard_yellow.name=Citrine Keycard
 tooltip.correlated.keycard=§5This seems important.
 
-item.correlated.wireless_terminal.name=Handheld Terminal
+item.correlated.handheld_terminal.name=Handheld Terminal
 item.correlated.weldthrower.name=Weldthrower
 tooltip.correlated.weldthrower.0=§5Wrench, welder, flamethrower.
 tooltip.correlated.weldthrower.1=§5What more could you possibly want?
