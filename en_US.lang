@@ -148,6 +148,7 @@ item.correlated.handheld_terminal.name=Handheld Terminal
 item.correlated.weldthrower.name=Weldthrower
 tooltip.correlated.weldthrower.0=§5Wrench, welder, flamethrower.
 tooltip.correlated.weldthrower.1=§5What more could you possibly want?
+tooltip.correlated.weldthrower.2=Uses Volatile Dust as fuel.
 item.correlated.floppy.name=Floppy
 item.correlated.module.speech.name=Speech Module
 item.correlated.module.antigrav.name=Anti-Gravity Module
