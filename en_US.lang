@@ -344,6 +344,7 @@ tooltip.correlated.storage=Storage
 tooltip.correlated.input=Input
 tooltip.correlated.filter=Filter
 tooltip.correlated.output=Output
+tooltip.correlated.boot_time=Boot Time
 
 tooltip.correlated.transmitter_range=Range: %sm
 
