@@ -182,6 +182,9 @@ item.record.correlated.irokos.desc=xyce - irokos
 
 item.correlated.doc_tablet.name=Correlated Digital Handbook
 
+item.correlated.debugginator.name=Debugginator
+item.correlated.debugginator.hint=Resistance is futile. You will be debugginated.
+
 tooltip.correlated.sortmode=Sorting Mode
 tooltip.correlated.sortmode.quantity=Quantity
 tooltip.correlated.sortmode.mod_minecraft_first=Originating Mod (Minecraft First)
