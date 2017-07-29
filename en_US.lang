@@ -190,6 +190,7 @@ tooltip.correlated.sortmode.quantity=Quantity
 tooltip.correlated.sortmode.mod_minecraft_first=Originating Mod (Minecraft First)
 tooltip.correlated.sortmode.mod=Originating Mod
 tooltip.correlated.sortmode.name=Name
+tooltip.correlated.sortmode.last_modified=Last Modified
 
 tooltip.correlated.sortdirection=Sorting Direction
 tooltip.correlated.sortdirection.ascending=Ascending
