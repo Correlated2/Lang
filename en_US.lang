@@ -118,8 +118,9 @@ tooltip.correlated.misc.unstable_pearl.0=§5What did you do?
 item.correlated.misc.unfinished_organic_circuit.name=Unfinished Organic Circuit
 tooltip.correlated.misc.unfinished_organic_circuit.0=§5Technically edible technology.
 item.correlated.misc.data_core.name=Data Core
-tooltip.correlated.misc.data_core.0=Right-click to throw and drop contents on the ground with a 5 hour despawn time, or use in place of a Luminous Pearl while crafting a drive to re-use
-tooltip.correlated.misc.data_core.1=
+tooltip.correlated.misc.data_core.0=Throw to shatter and drop content (5 hr despawn)
+tooltip.correlated.misc.data_core.1=Can be used to craft drives, keeping contents
+tooltip.correlated.misc.data_core.2=
 item.correlated.misc.chrysocolla.name=Chrysocolla
 item.correlated.misc.chrysocolla_ingot.name=Chrysocolla Ingot
 item.correlated.misc.impure_chrysocolla.name=Impure Chrysocolla
@@ -319,6 +320,30 @@ numbers.correlated.giga=%sG
 numbers.correlated.mega=%sM
 numbers.correlated.kilo=%sk
 numbers.correlated.normal=%d
+
+
+gui.correlated.last_modified.epoch=Last modified at the beginning of time
+gui.correlated.last_modified.just_now=Last modified just now
+gui.correlated.last_modified.long_time=Last modified a long time ago
+// lie about it; clock skew between client and server is basically to be expected
+gui.correlated.last_modified.future=Last modified just now
+
+// See http://cldr.unicode.org/index/cldr-spec/plural-rules
+// English only uses other and one, Chinese only uses other
+// (yes, you can delete and add lines here with custom rules)
+gui.correlated.last_modified.seconds.one=Last modified %s second ago
+gui.correlated.last_modified.seconds.other=Last modified %s seconds ago
+gui.correlated.last_modified.minutes.one=Last modified %s minute ago
+gui.correlated.last_modified.minutes.other=Last modified %s minutes ago
+gui.correlated.last_modified.hours.one=Last modified %s hour ago
+gui.correlated.last_modified.hours.other=Last modified %s hours ago
+gui.correlated.last_modified.days.one=Last modified %s day ago
+gui.correlated.last_modified.days.other=Last modified %s days ago
+gui.correlated.last_modified.weeks.one=Last modified %s week ago
+gui.correlated.last_modified.weeks.other=Last modified %s weeks ago
+gui.correlated.last_modified.years.one=Last modified %s year ago
+gui.correlated.last_modified.years.other=Last modified %s year ago
+
 
 tooltip.correlated.controller_booting=Initializing...
 tooltip.correlated.controller_booting.hard=Booting...
