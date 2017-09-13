@@ -105,14 +105,12 @@ item.correlated.memory.normal.name=%s Memory
 item.correlated.memory.infinite.name=Wormhole Memory
 
 item.correlated.misc.processor.name=Enderic Processor
-tooltip.correlated.misc.processor.0=§5It seems to be part of something larger.
 item.correlated.misc.ceramic_drive_platter.name=Ceramic Drive Platter
 item.correlated.misc.metallic_drive_platter.name=Metallic Drive Platter
 item.correlated.misc.luminous_pearl.name=Luminous Pearl
-tooltip.correlated.misc.luminous_pearl.0=§5It glows a brilliant verdant green.
 item.correlated.misc.lumtorch.name=Luminous Torch
 item.correlated.misc.weldthrower_fuel.name=Volatile Dust
-tooltip.correlated.misc.weldthrower_fuel.0=§5A great fuel, if used correctly.
+tooltip.correlated.misc.weldthrower_fuel.0=§5Useful for calming robots and powering Weldthrowers.
 item.correlated.misc.unstable_pearl.name=Unstable Pearl
 tooltip.correlated.misc.unstable_pearl.0=§5What did you do?
 item.correlated.misc.unfinished_organic_circuit.name=Unfinished Organic Circuit
@@ -184,7 +182,8 @@ item.record.correlated.irokos.desc=xyce - irokos
 item.correlated.doc_tablet.name=Correlated Digital Handbook
 
 item.correlated.debugginator.name=Debugginator
-item.correlated.debugginator.hint=Resistance is futile. You will be debugginated.
+item.correlated.debugginator.0=Resistance is futile.
+item.correlated.debugginator.1=You will be debugginated.
 
 tooltip.correlated.sortmode=Sorting Mode
 tooltip.correlated.sortmode.quantity=Quantity
