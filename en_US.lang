@@ -271,6 +271,8 @@ msg.correlated.insertFailed.internal_error=Storage is read-only
 msg.correlated.removeSuccessMem=Success: Freed %s mem, %s disk
 msg.correlated.removeSuccess=Success: Freed %s disk
 
+msg.correlated.invokeFailed.noAction=Error: No invoke action registered
+
 msg.correlated.no_rightclick_editor=Right-clicking while holding a drive no longer edits it. Place the drive in the bottom-left slot of a Terminal and click Repartition to edit it.
 
 # Lines printed by the 'free' command, showing a memory usage breakdown
