@@ -343,7 +343,7 @@ gui.correlated.last_modified.days.other=Last modified %s days ago
 gui.correlated.last_modified.weeks.one=Last modified %s week ago
 gui.correlated.last_modified.weeks.other=Last modified %s weeks ago
 gui.correlated.last_modified.years.one=Last modified %s year ago
-gui.correlated.last_modified.years.other=Last modified %s year ago
+gui.correlated.last_modified.years.other=Last modified %s years ago
 
 
 tooltip.correlated.controller_booting=Initializing...
