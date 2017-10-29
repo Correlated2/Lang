@@ -100,6 +100,8 @@ gui.correlated.noSignal=NO SIGNAL. Click to change APNs
 
 item.correlated.drive.normal.name=%s Drive
 item.correlated.drive.void.name=Void Drive
+item.correlated.drive.creative.name=Creative Drive
+item.correlated.drive.vending.name=Vending Drive
 
 item.correlated.memory.normal.name=%s Memory
 item.correlated.memory.infinite.name=Wormhole Memory
