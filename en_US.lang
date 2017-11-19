@@ -1,12 +1,8 @@
 itemGroup.correlated=Correlated
 
-gui.inventory=Inventory
-gui.correlated.select_apn=Select APN
-gui.correlated.select_apn_multiple=Select APNs
-gui.correlated.new=New...
+# --Blocks--
 
-container.correlated.drive_bay.name=Drive Bay
-
+# Modules
 tile.correlated.controller.name=Controller
 tile.correlated.drive_bay.name=Drive Bay
 tile.correlated.memory_bay.name=Memory Bay
@@ -14,12 +10,18 @@ tile.correlated.terminal.name=Terminal
 tile.correlated.interface.name=Interface
 tile.correlated.cheaty_controller.name=Cheaty Controller
 tile.correlated.microwave_beam.name=Microwave Beam
-tile.correlated.microwave_beam.0=§5Infinite range line-of-sight wireless!
+tile.correlated.microwave_beam.0=§5Infinite range, single-pair line-of-sight wireless!
 tile.correlated.microwave_beam.1=§5Sadly, not powerful enough to fry birds midair.
-tile.correlated.optical.name=Optical Receiver
+tile.correlated.optical.name=Optical Transceiver
 tile.correlated.optical.0=§5Short range inexpensive line-of-sight wireless.
 tile.correlated.beacon_lens.name=Beacon Lens
 tile.correlated.beacon_lens.0=§5Long-range beacon-based wireless!
+
+# Containers
+
+container.correlated.drive_bay.name=Drive Bay
+
+# Stairs
 
 tile.correlated.dungeoncrete_stairs.name=Chryscrete Stairs
 tile.correlated.dungeoncrete_grate_stairs.name=Chryscrete Grate Stairs
@@ -36,6 +38,8 @@ tile.correlated.elucid_brick_stairs.name=Elucid Brick Stairs
 tile.correlated.elucid_scale_stairs.name=Elucid Scale Stairs
 
 tile.correlated.plating_stairs.name=Plating Stairs
+
+# Decorative Full
 
 tile.correlated.dungeoncrete.name=Chryscrete
 tile.correlated.dungeoncrete_grate.name=Chryscrete Grate
@@ -54,6 +58,8 @@ tile.correlated.elucid_scale.name=Elucid Scale
 tile.correlated.plating.name=Plating
 tile.correlated.lantern.name=Lantern
 
+# Slabs
+
 tile.correlated.dungeoncrete_slab.name=Chryscrete Slab
 tile.correlated.dungeoncrete_grate_slab.name=Chryscrete Grate Slab
 tile.correlated.dungeoncrete_vertical_slab.name=Split Chryscrete Slab
@@ -71,12 +77,23 @@ tile.correlated.elucid_scale_slab.name=Elucid Scale Slab
 tile.correlated.plating_slab.name=Plating Slab
 tile.correlated.lantern_slab.name=Lantern Slab
 
+# Ore
+
 tile.correlated.rare_earth_ore.name=Rare Earth Ore
 tooltip.correlated.rare_earth_ore.0=§5Hard to separate!
 
+# --Gui--
 
+# Gui titles
+
+gui.inventory=Inventory
+gui.correlated.select_apn=Select APN
+gui.correlated.select_apn_multiple=Select APNs
+gui.correlated.new=New...
 gui.correlated.terminal=Terminal
 gui.correlated.importer_chest=Disassembled Old Network
+
+# Gui labels
 
 gui.correlated.priority=Priority
 gui.correlated.priority.highest=Highest (3)
@@ -97,6 +114,7 @@ gui.correlated.partition_mode.whitelist.desc=Only items shown in this gui are al
 
 gui.correlated.noSignal=NO SIGNAL. Click to change APNs
 
+# --Items--
 
 item.correlated.drive.normal.name=%s Drive
 item.correlated.drive.void.name=Void Drive
@@ -105,6 +123,8 @@ item.correlated.drive.vending.name=Vending Drive
 
 item.correlated.memory.normal.name=%s Memory
 item.correlated.memory.infinite.name=Wormhole Memory
+
+# Crafting components
 
 item.correlated.misc.processor.name=Enderic Processor
 item.correlated.misc.ceramic_drive_platter.name=Ceramic Drive Platter
@@ -134,6 +154,8 @@ item.correlated.misc.ingot_lutetium.name=Lutetium Ingot
 item.correlated.misc.ingot_mixed.name=Mixed Rare Earth Ingot
 tooltip.correlated.misc.ingot_mixed.0=§5Separate rare earths are more useful, but oh well.
 
+# Keycards
+
 item.correlated.keycard_amber.name=Amber Keycard
 item.correlated.keycard_black.name=Onyx Keycard
 item.correlated.keycard_green.name=Jade Keycard
@@ -145,6 +167,8 @@ item.correlated.keycard_white.name=Topaz Keycard
 item.correlated.keycard_yellow.name=Citrine Keycard
 tooltip.correlated.keycard=§5This seems important.
 
+# Usable items
+
 item.correlated.handheld_terminal.name=Handheld Terminal
 item.correlated.weldthrower.name=Weldthrower
 tooltip.correlated.weldthrower.0=§5Wrench, welder, flamethrower.
@@ -153,11 +177,13 @@ tooltip.correlated.weldthrower.2=Uses Volatile Dust as fuel.
 item.correlated.floppy.name=Floppy
 item.correlated.module.speech.name=Speech Module
 item.correlated.module.antigrav.name=Anti-Gravity Module
+item.correlated.doc_tablet.name=Correlated Digital Handbook
+
+# Records
 
 item.record.correlated.danslarue.desc=xyce - dans la rue
 item.record.correlated.jesuisbaguette.desc=xyce - je suis baguette
 item.record.correlated.papillons.desc=malmen & xyce - papillons
-
 item.record.correlated.dreidl.desc=xyce - dreidl
 item.record.correlated.oak.desc=xyce - oak
 item.record.correlated.king.desc=xyce - king
@@ -181,11 +207,13 @@ item.record.correlated.pinkssideoftown.desc=xyce - pink's side of town
 item.record.correlated.thirteen.desc=xyce - thirteen
 item.record.correlated.irokos.desc=xyce - irokos
 
-item.correlated.doc_tablet.name=Correlated Digital Handbook
+# Debugginator
 
 item.correlated.debugginator.name=Debugginator
 item.correlated.debugginator.0=Resistance is futile.
 item.correlated.debugginator.1=You will be debugginated.
+
+# --Tooltips--
 
 tooltip.correlated.sortmode=Sorting Mode
 tooltip.correlated.sortmode.quantity=Quantity
@@ -225,6 +253,8 @@ tooltip.correlated.shift_to_fill=(Hold Shift to fill)
 tooltip.correlated.fill=Fill from Network
 tooltip.correlated.release_shift_to_dump=(Release Shift to dump)
 
+# --Automatons--
+
 
 entity.correlated.automaton.name=Automaton
 
@@ -240,6 +270,7 @@ tooltip.correlated.automaton.followDistance.1=Near
 tooltip.correlated.automaton.followDistance.2=Far
 tooltip.correlated.automaton.followDistance.3=Distant
 
+# --Messages--
 
 msg.correlated.terminal_no_controller=Cannot find a Controller to communicate with.
 msg.correlated.terminal_no_power=The unlit screen resists all attempts at interaction.
@@ -301,6 +332,8 @@ correlated.shell.ready_wireless=Ready. Click to change APNs.
 # https://www.youtube.com/watch?v=mrVVpTrQkTA
 correlated.shell.readyEgg=Dis is one half.
 
+# --Numbers and stats--
+
 numbers.correlated.yobibytes=%dYiB
 numbers.correlated.zebibytes=%dZiB
 numbers.correlated.exbibytes=%dEiB
@@ -347,6 +380,7 @@ gui.correlated.last_modified.weeks.other=Last modified %s weeks ago
 gui.correlated.last_modified.years.one=Last modified %s year ago
 gui.correlated.last_modified.years.other=Last modified %s years ago
 
+# --WAILA tooltips--
 
 tooltip.correlated.controller_booting=Initializing...
 tooltip.correlated.controller_booting.hard=Booting...
@@ -399,6 +433,8 @@ tooltip.correlated.bytes_available=%s available
 
 tooltip.correlated.void_drive.0=Deletes any items that are assigned to it
 tooltip.correlated.void_drive.1=Partitioning this is a good idea
+
+# --Subtitles and deaths--
 
 subtitles.correlated.weldthrow=Weldthrower weldthrows
 subtitles.correlated.convert=Pearl converts

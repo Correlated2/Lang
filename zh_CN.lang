@@ -6,7 +6,7 @@ tile.correlated.controller.name=控制器
 tile.correlated.drive_bay.name=磁盘存储柜
 tile.correlated.terminal.name=终端
 tile.correlated.iface.name=访问接口
-tile.correlated.wireless_receiver.name=无线信号接收仪
+tile.correlated.wireless_transceiver.name=无线信号接收仪
 tile.correlated.wireless_transmitter.name=无线信号发射仪
 
 gui.correlated.terminal=终端
@@ -75,8 +75,8 @@ msg.correlated.terminal_no_power=不论你怎么弄，屏幕就是不亮。也�
 msg.correlated.terminal_error=在访问网络时发生错误，访问已被阻断。
 msg.correlated.terminal_booting=网络依旧在启动中。
 
-msg.correlated.receiver_unlinked=接收仪未与发射仪配对。右击发射仪以完成配对。
-msg.correlated.receiver_linked=接收仪已配对。
+msg.correlated.transceiver_unlinked=接收仪未与发射仪配对。右击发射仪以完成配对。
+msg.correlated.transceiver_linked=接收仪已配对。
 
 msg.correlated.terminal_unlinked=终端未与发射仪配对。右击发射仪以完成配对。
 msg.correlated.terminal_linked=终端已配对。
