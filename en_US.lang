@@ -152,7 +152,8 @@ item.correlated.misc.ingot_praseodymium.name=Praseodymium Ingot
 item.correlated.misc.ingot_holmium.name=Holmium Ingot
 item.correlated.misc.ingot_lutetium.name=Lutetium Ingot
 item.correlated.misc.ingot_mixed.name=Mixed Rare Earth Ingot
-tooltip.correlated.misc.ingot_mixed.0=§5Separate rare earths are more useful, but oh well.
+tooltip.correlated.misc.ingot_mixed.0=§5Separate rare earths are more useful. Gotta start somewhere.
+item.correlated.misc.mundane_processor.name=Mundane Processor
 
 # Keycards
 
