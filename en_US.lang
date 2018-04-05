@@ -177,6 +177,7 @@ tooltip.correlated.weldthrower.2=Uses Volatile Dust as fuel.
 item.correlated.floppy.name=Floppy
 item.correlated.module.speech.name=Speech Module
 item.correlated.module.antigrav.name=Anti-Gravity Module
+item.correlated.vacuum.name=Vacuum
 item.correlated.doc_tablet.name=Correlated Digital Handbook
 
 # Records
@@ -444,6 +445,9 @@ subtitles.correlated.automaton_hurt=Automaton squeals
 subtitles.correlated.automaton_idle=Automaton chirps
 subtitles.correlated.drive_disassemble=Drive falls apart
 subtitles.correlated.data_core_shatter=Data core shatters
+subtitles.correlated.vacuum_start=Vacuum starts
+subtitles.correlated.vacuum=Vacuuming
+subtitles.correlated.vacuum_stop=Vacuum stops
 
 death.attack.correlated.weld=%s was welded by %s
 death.attack.correlated.weld.item=%s was welded by %s using %s
