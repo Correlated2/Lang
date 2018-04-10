@@ -127,8 +127,8 @@ item.correlated.memory.infinite.name=Wormhole Memory
 # Crafting components
 
 item.correlated.misc.processor.name=Enderic Processor
-item.correlated.misc.ceramic_drive_platter.name=Ceramic Drive Platter
-item.correlated.misc.metallic_drive_platter.name=Metallic Drive Platter
+item.correlated.misc.ceramic_drive_platter.name=Low-Density Drive Platter
+item.correlated.misc.metallic_drive_platter.name=High-Density Drive Platter
 item.correlated.misc.luminous_pearl.name=Luminous Pearl
 item.correlated.misc.lumtorch.name=Luminous Torch
 item.correlated.misc.weldthrower_fuel.name=Volatile Dust
