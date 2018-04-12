@@ -122,7 +122,7 @@ item.correlated.drive.creative.name=Creative Drive
 item.correlated.drive.vending.name=Vending Drive
 
 item.correlated.memory.normal.name=%s Memory
-item.correlated.memory.infinite.name=Wormhole Memory
+item.correlated.memory.creative.name=Creative Memory
 
 # Crafting components
 
