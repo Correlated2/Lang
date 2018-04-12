@@ -211,12 +211,6 @@ item.record.correlated.irokos.desc=xyce - irokos
 
 item.record.correlated.enceladus.desc=Bluelily - Enceladus
 
-# Debugginator
-
-item.correlated.debugginator.name=Debugginator
-item.correlated.debugginator.0=Resistance is futile.
-item.correlated.debugginator.1=You will be debugginated.
-
 # --Tooltips--
 
 tooltip.correlated.sortmode=Sorting Mode
