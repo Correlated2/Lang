@@ -378,6 +378,48 @@ gui.correlated.last_modified.weeks.other=Last modified %s weeks ago
 gui.correlated.last_modified.years.one=Last modified %s year ago
 gui.correlated.last_modified.years.other=Last modified %s years ago
 
+# --Energy units--
+
+energy.correlated.potential.name=Potential
+energy.correlated.potential.abbrev=P
+energy.correlated.potential.mod=Correlated
+
+energy.correlated.redstone_flux.name=Redstone Flux
+energy.correlated.redstone_flux.abbrev=RF
+energy.correlated.redstone_flux.mod=Thermal Expansion
+
+energy.correlated.energy_units.name=Energy Units
+energy.correlated.energy_units.abbrev=EU
+energy.correlated.energy_units.mod=IndustrialCraft 2
+
+energy.correlated.tesla.name=Tesla
+energy.correlated.tesla.abbrev=T
+energy.correlated.tesla.mod=
+
+energy.correlated.minecraft_joules.name=Minecraft Joules
+energy.correlated.minecraft_joules.abbrev=MJ
+energy.correlated.minecraft_joules.mod=BuildCraft
+
+energy.correlated.joules.name=Joules
+energy.correlated.joules.abbrev=J
+energy.correlated.joules.mod=Mekanism
+
+energy.correlated.danks.name=Danks
+energy.correlated.danks.abbrev=Dk
+energy.correlated.danks.mod=
+
+energy.correlated.forge_units.name=Forge Units
+energy.correlated.forge_units.abbrev=FU
+energy.correlated.forge_units.mod=Minecraft Forge
+
+energy.correlated.forge_energy.name=Forge Energy
+energy.correlated.forge_energy.abbrev=FE
+energy.correlated.forge_energy.mod=Minecraft Forge
+
+energy.correlated.crystal_flux.name=Crystal Flux
+energy.correlated.crystal_flux.abbrev=CF
+energy.correlated.crystal_flux.mod=Actually Additions
+
 # --Probe data tooltips--
 
 tooltip.correlated.controller_booting=Initializing...
@@ -397,9 +439,9 @@ tooltip.correlated.apn=APN: %s
 tooltip.correlated.apns=APNs: %s
 tooltip.correlated.radius=Radius: %sm
 
-tooltip.correlated.iface.mode_push=§fActive - §6Push
-tooltip.correlated.iface.mode_pull=§fActive - §bPull
-tooltip.correlated.iface.mode_none=§fPassive
+tooltip.correlated.iface.mode_output=§6Output
+tooltip.correlated.iface.mode_input=§bInput
+tooltip.correlated.iface.mode_both=§fBoth
 tooltip.correlated.iface.mode_disabled=§8Disabled
 
 tooltip.correlated.energy_stored=Energy Stored
