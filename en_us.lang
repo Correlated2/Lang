@@ -155,6 +155,8 @@ item.correlated.misc.ingot_lutetium.name=Lutetium Ingot
 item.correlated.misc.ingot_mixed.name=Mixed Rare Earth Ingot
 tooltip.correlated.misc.ingot_mixed.0=§5Separate rare earths are more useful. Gotta start somewhere.
 item.correlated.misc.mundane_processor.name=Mundane Processor
+item.correlated.misc.balanced_core.name=Balanced Core
+tooltip.correlated.misc.balanced_core.0=§5No poking.
 
 # Keycards
 
