@@ -16,9 +16,6 @@ tile.correlated.optical.name=Optical Transceiver
 tile.correlated.optical.0=§5Short range inexpensive line-of-sight wireless.
 tile.correlated.beacon_lens.name=Beacon Lens
 tile.correlated.beacon_lens.0=§5Long-range beacon-based wireless!
-
-# Containers
-
 container.correlated.drive_bay.name=Drive Bay
 
 # Stairs
@@ -57,6 +54,8 @@ tile.correlated.elucid_scale.name=Elucid Scale
 
 tile.correlated.plating.name=Plating
 tile.correlated.lantern.name=Lantern
+
+tile.correlated.lumtorch.name=Luminous Torch
 
 # Slabs
 
@@ -131,7 +130,8 @@ item.correlated.misc.processor.name=Enderic Processor
 item.correlated.misc.ceramic_drive_platter.name=Low-Density Drive Platter
 item.correlated.misc.metallic_drive_platter.name=High-Density Drive Platter
 item.correlated.misc.luminous_pearl.name=Luminous Pearl
-item.correlated.misc.lumtorch.name=Luminous Torch
+item.correlated.misc.lumtorch.name=<< LEGACY ITEM >>
+tooltip.correlated.misc.lumtorch.0=§cCraft by itself to convert to the new form.
 item.correlated.misc.weldthrower_fuel.name=Volatile Dust
 tooltip.correlated.misc.weldthrower_fuel.0=§5Useful for calming robots and powering Weldthrowers.
 item.correlated.misc.unstable_pearl.name=Unstable Pearl
