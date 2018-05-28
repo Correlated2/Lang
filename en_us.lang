@@ -123,6 +123,10 @@ item.correlated.drive.broken.name=Disrupted Drive
 
 item.correlated.memory.normal.name=%s Memory
 item.correlated.memory.creative.name=Creative Memory
+item.correlated.memory.redstone.name=Literally An RS-NOR Latch On A Plate
+tooltip.correlated.memory.redstone.0=§5...Sure, why not.
+tooltip.correlated.memory.redstone.1=
+tooltip.correlated.memory.redstone.2=§5Blame 5B.
 
 # Crafting components
 
@@ -297,6 +301,7 @@ msg.correlated.insertSuccessVoid=Success: Items voided
 msg.correlated.insertFailed=Error: %s
 msg.correlated.insertFailed.insufficient_memory=Not enough memory
 msg.correlated.insertFailed.insufficient_storage=Not enough disk space
+msg.correlated.insertFailed.insufficient_power=Not enough power
 msg.correlated.insertFailed.item_incompatible=No suitable partition
 msg.correlated.insertFailed.refused=Item refused
 msg.correlated.insertFailed.internal_error=Internal error
@@ -422,6 +427,10 @@ energy.correlated.forge_energy.mod=Minecraft Forge
 energy.correlated.crystal_flux.name=Crystal Flux
 energy.correlated.crystal_flux.abbrev=CF
 energy.correlated.crystal_flux.mod=Actually Additions
+
+energy.correlated.micro_infinity.name=Micro Infinities
+energy.correlated.micro_infinity.abbrev=µI
+energy.correlated.micro_infinity.mod=Ender IO
 
 # --Probe data tooltips--
 
