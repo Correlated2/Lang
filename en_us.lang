@@ -402,7 +402,7 @@ energy.correlated.energy_units.mod=IndustrialCraft 2
 
 energy.correlated.tesla.name=Tesla
 energy.correlated.tesla.abbrev=T
-energy.correlated.tesla.mod=
+energy.correlated.tesla.mod=TESLA
 
 energy.correlated.minecraft_joules.name=Minecraft Joules
 energy.correlated.minecraft_joules.abbrev=MJ
@@ -414,7 +414,7 @@ energy.correlated.joules.mod=Mekanism
 
 energy.correlated.danks.name=Danks
 energy.correlated.danks.abbrev=Dk
-energy.correlated.danks.mod=
+energy.correlated.danks.mod=TESLA
 
 energy.correlated.forge_units.name=Forge Units
 energy.correlated.forge_units.abbrev=FU
