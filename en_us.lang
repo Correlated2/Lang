@@ -162,6 +162,9 @@ item.correlated.misc.mundane_processor.name=Mundane Processor
 item.correlated.misc.balanced_core.name=Balanced Core
 tooltip.correlated.misc.balanced_core.0=§5No poking.
 
+info.correlated.unstable_pearl=Created by throwing a Luminous Pearl through a Nether Portal with right-click.
+info.correlated.data_core=Created by disassembling a drive with data on it with sneak-right-click.
+
 # Keycards
 
 item.correlated.keycard_amber.name=Amber Keycard
