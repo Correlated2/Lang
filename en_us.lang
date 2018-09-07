@@ -36,7 +36,7 @@ tile.correlated.elucid_scale_stairs.name=Elucid Scale Stairs
 
 tile.correlated.plating_stairs.name=Plating Stairs
 
-# Decorative Full
+# Decorative
 
 tile.correlated.dungeoncrete.name=Chryscrete
 tile.correlated.dungeoncrete_grate.name=Chryscrete Grate
@@ -56,6 +56,8 @@ tile.correlated.plating.name=Plating
 tile.correlated.lantern.name=Lantern
 
 tile.correlated.lumtorch.name=Luminous Torch
+
+tile.correlated.crystal_cluster.name=Crystal Cluster
 
 # Slabs
 
