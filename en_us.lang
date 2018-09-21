@@ -130,7 +130,7 @@ tooltip.correlated.memory.redstone.0=§5...Sure, why not.
 tooltip.correlated.memory.redstone.1=
 tooltip.correlated.memory.redstone.2=§5Blame Kat.
 
-item.correlated.chrysocolla_crystal.name=Chry Crystal
+item.correlated.chrysocolla_crystal.name=Chrysocolla Crystal
 item.correlated.crystal.name=%s Crystal
 item.correlated.crystal.sharp.name=Sharp %s Crystal
 item.correlated.crystal.very_sharp.name=Very Sharp %s Crystal
