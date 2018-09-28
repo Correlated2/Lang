@@ -115,6 +115,36 @@ gui.correlated.partition_mode.whitelist.desc=Only items shown in this gui are al
 
 gui.correlated.noSignal=NO SIGNAL. Click to change APNs
 
+# Photosensitivity prompt
+
+gui.correlated.photosensitive.0=Are you sensitive to flashing lights?
+gui.correlated.photosensitive.1=
+gui.correlated.photosensitive.2=Correlated has some effects that can result in rapidly
+gui.correlated.photosensitive.3=flashing full-screen colors. They are used sparingly, but
+gui.correlated.photosensitive.4=can be replaced with effects that do not rapidly flash.
+gui.correlated.photosensitive.5=Would you like to do this?
+
+gui.correlated.photosensitive.no=§l§cNo§r, flashing is okay
+gui.correlated.photosensitive.yes=§l§aYes§r, disable flashing
+
+msg.correlated.photosensitive.confirm_yes=Okay. Flashing effects have been disabled.
+msg.correlated.photosensitive.confirm_no=Okay. Flashing effects have been enabled.
+
+msg.correlated.photosensitive.reset_notice=If you would like to change this setting, run /correlated:prompt_photosensitivity.
+
+gui.correlated.photosensitive.subtitle.pickup.0=§7You are being asked because you picked
+gui.correlated.photosensitive.subtitle.pickup.1=§7up an item that has flashing effects.
+
+gui.correlated.photosensitive.subtitle.reset.0=§7You are being asked because you ran
+gui.correlated.photosensitive.subtitle.reset.1=§7/correlated:prompt_photosensitivity.
+
+gui.correlated.photosensitive.subtitle.smallpack.0=§7You are being asked because there
+gui.correlated.photosensitive.subtitle.smallpack.1=§7are less than 15 mods installed and
+gui.correlated.photosensitive.subtitle.smallpack.2=§7you have not answered before.
+gui.correlated.photosensitive.subtitle.smallpack.3=§7In larger packs, this prompt will only
+gui.correlated.photosensitive.subtitle.smallpack.4=§7appear once it is relevant.
+gui.correlated.photosensitive.subtitle.smallpack.5=§eThis setting only affects Correlated.
+
 # --Items--
 
 item.correlated.drive.normal.name=%s Drive
